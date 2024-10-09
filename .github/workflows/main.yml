@@ -23,18 +23,18 @@ jobs:
     - name: Setup JDK
       uses: actions/setup-java@v4
       with:
-        java-version: 17
+        java-version: 23
         distribution: 'temurin'
         
     - name: Setup Android SDK Tools
       uses: android-actions/setup-android@v3.2.0
       with:
-        cmdline-tools-version: 10406996
+        cmdline-tools-version: 11076708
         
     - name: Setup Android NDK
       uses: nttld/setup-ndk@v1.4.2
       with:
-        ndk-version: 'r26b'
+        ndk-version: 'r28-beta1'
         link-to-sdk: true
     - name: Setup Go Mobile
       run: |
