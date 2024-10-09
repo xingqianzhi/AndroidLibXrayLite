@@ -49,7 +49,7 @@ require (
 	google.golang.org/genproto v0.0.0-20240930140551-af27646dc61f // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240930140551-af27646dc61f // indirect
 	google.golang.org/grpc v1.67.1 // indirect
-	google.golang.org/protobuf v1.34.2 // indirect
+	google.golang.org/protobuf v1.35.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gvisor.dev/gvisor v0.0.0-20231202080848-1f7806d17489 // indirect
 	lukechampine.com/blake3 v1.3.0 // indirect
