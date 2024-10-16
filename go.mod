@@ -18,7 +18,7 @@ require (
 	github.com/google/btree v1.1.3 // indirect
 	github.com/google/pprof v0.0.0-20241001023024-f4c0cfd0cf1d // indirect
 	github.com/gorilla/websocket v1.5.3 // indirect
-	github.com/klauspost/compress v1.17.10 // indirect
+	github.com/klauspost/compress v1.17.11 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.8 // indirect
 	github.com/onsi/ginkgo/v2 v2.20.2 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
