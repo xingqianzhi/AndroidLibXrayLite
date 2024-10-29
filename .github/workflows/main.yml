@@ -12,7 +12,7 @@ jobs:
     steps:
 
     - name: Checkout repository
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2
 
       
     - name: Setup Golang
@@ -21,7 +21,7 @@ jobs:
         go-version-file: 'go.mod'
       
     - name: Setup JDK
-      uses: actions/setup-java@v4
+      uses: actions/setup-java@v4.5.0
       with:
         java-version: 23
         distribution: 'temurin'
