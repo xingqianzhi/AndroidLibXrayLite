@@ -55,4 +55,4 @@ require (
 	lukechampine.com/blake3 v1.3.0 // indirect
 )
 
-replace google.golang.org/grpc v1.67.1 => google.golang.org/grpc v1.69.0-dev
+replace google.golang.org/grpc v1.67.1 => google.golang.org/grpc v1.66.3
